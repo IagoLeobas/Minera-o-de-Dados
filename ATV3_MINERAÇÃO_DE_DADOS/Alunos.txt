@@ -1,0 +1,2 @@
+Alunos: Iago Batista Antunes Leobas, Francisco Raphael F. de Araujo, Gabriel Teixeira.
+Disciplina: Mineração de Dados
